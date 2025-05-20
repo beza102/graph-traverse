@@ -13,4 +13,7 @@ public class Vertex<T> {
     this.data = data;
     this.neighbors = neighbors;
   }
+  
+    
+  
 }
